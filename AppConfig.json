@@ -1,0 +1,38 @@
+{
+  "WooCommerce": {
+    "url": "https://couphub.com",
+    "consumerKey": "ck_755876fe639d51e91f0e21768ee1d4d8a7ffbfcb",
+    "consumerSecret": "cs_215574048b3b98026adb5adabef36530acdd5e7d"
+  },
+  "HorizonLayout": [
+    {
+      "name": "todayDeals",
+      "image": "",
+      "layout": "twoColumn",
+      "categoryOrTag": 30,
+      "category": 30
+    },
+ 
+    {
+      "name": "todayDeals",
+      "image": "",
+      "layout": "bannerHigh",
+      "categoryOrTag": 402,
+      "category": 402
+    },
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 286
+    },
+    {
+      "name": "manCollections",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 356
+    }
+  ],
+  "MainColor": "#04b4e5",
+  "SecondColor":  "#f9650e"
+}
